@@ -1,6 +1,5 @@
 <!-- HEADING -->
 # myApp  
-## Title 
 ___
 ### topic 
 ###### me 
