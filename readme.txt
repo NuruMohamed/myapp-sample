@@ -1,1 +1,0 @@
-this is a trial version of my chat app. and holla. am learning git!
