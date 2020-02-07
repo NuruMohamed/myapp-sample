@@ -1,8 +1,7 @@
 <!-- HEADING -->
 # myApp  
 ___
-### topic 
-###### me 
+
 
 <!-- Italics -->
 my ~~name~~ is *__nuru__*
