@@ -21,4 +21,20 @@ my ~~name~~ is *__nuru__*
 1. 4545
 1. 23232 
  
- ![mee](C:\Users\123\Pictures\BlueStacks/me.jpg)
+
+ `<b> nuru </b>`
+
+ ```
+git commit -m '' 
+git clone  
+ ```
+
+ ```javascript 
+  console.log("me nuru");
+ ```
+
+ | name | grade | date|
+ | ----| ------| ---|
+ | Nuru     |A  |
+ | Moh| A+|
+ |Mama| A+++
